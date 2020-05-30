@@ -1,0 +1,6 @@
+data/
+examples/
+.idea/
+.ipynb_checkpoints/
+
+mnist_cnn.pt
